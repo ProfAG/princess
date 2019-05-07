@@ -22,9 +22,11 @@ img {
   transition: .5s;
   transition-delay: .5s;
 }
-
-img:hover {
+img {
   transform: rotate(540deg);
+}
+img:hover {
+  transform: rotate(0deg);
 }
 meta {
   
