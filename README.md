@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
  # Forever Young :princess:
 My first interactive website with a little marketing. Botox joke. I hope you find it funny :) 
 
@@ -18,4 +18,3 @@ http://profag.github.io/princess
 =======
 # old woman
 Start the magic!
->>>>>>> fa280779ae17e6b9d8201a82fd153c679f5e9e12
